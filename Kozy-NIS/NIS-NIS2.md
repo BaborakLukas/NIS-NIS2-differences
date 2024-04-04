@@ -1,5 +1,3 @@
-Samozřejmě, zde je vysvětlení s mírně odbornějším přístupem:
-
 Směrnice NIS (Network and Information Systems Directive) a její novější verze, NIS2, představují právní rámec Evropské unie pro ochranu kybernetické infrastruktury. 
 
 Podle původní směrnice NIS jsou subjekty, které spadají do oblasti působnosti, nazývány jako poskytovatelé důležitých služeb (OES) a poskytovatelé digitálních služeb (DSP). OES zahrnují organizace v kritických odvětvích, jako je energetika, finance, doprava, zdravotnictví atd. DSP jsou například online tržiště, vyhledávače, cloudové služby a další. Porušení směrnice NIS může být sankcionováno pokutou až do výše 2 % celkového obratu subjektu za předchozí období.
